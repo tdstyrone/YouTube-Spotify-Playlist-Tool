@@ -21,7 +21,6 @@ def main():
     print("Select the playlist you want below: ")
     keys = yt_client.get_playlist()
     print("0. Exit")
-    print(keys)
     user_choice = int(input("\nYour Choice: "))
     while user_choice != 0:
         try:
