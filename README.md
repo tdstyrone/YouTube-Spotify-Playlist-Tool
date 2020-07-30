@@ -7,10 +7,11 @@ A simple script that allows users to download music from any of their selected Y
 * [Requests Library v 2.22.0]
 * [Youtube_dl v 2020.01.24]
 
-## Sample USE:
+## Sample Use:
 
-###### YouTube Downloader MP3 Example:                                                                                          
-![YouTube Downloader](https://github.com/tdstyrone/YouTube-Spotify-Playlist-Tool/blob/master/IMAGES/YouTubeDownloadSample.png)      
+###### YouTube Downloader MP3 Example:                                                                                              
+<img align="left" alt="YouTube Downloader" height="300px" width="500px" src="https://github.com/tdstyrone/YouTube-Spotify-Playlist-Tool/blob/master/IMAGES/YouTubeDownloadSample.png" />
+
 
 ## ToDo
 * Add Spotify Integration
